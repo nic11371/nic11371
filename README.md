@@ -7,7 +7,7 @@ Python Developer
 I'm working as a engineer and getting carried away programing. I like it. I'm currently learn programing and doing a little projects. I will grad cooperation.
 
 * 🌍  I'm based in Россия
-* ✉️  You can contact me at [nic113744@gmail.com](mailto:nic113744@gmail.com)
+* ✉️  You can contact me at nic113744@gmail.com, https://t.me/nic1137171
 * 🧠  I'm learning a new framework as Flask, Django
 * 🤝  I'm open to collaborating on interesting projects
 
